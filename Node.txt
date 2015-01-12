@@ -1,0 +1,8 @@
+It exits when there is nothin to do 
+
+
+If the server is is waiting to another process it becomes ideal i.e it can do other tasks
+
+
+ 
+Javascript -----------> Chrome javascript engine --------------> Node 
